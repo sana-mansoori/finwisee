@@ -212,7 +212,7 @@ html{
     padding: 0 95px;
 }
 .showcase .showcase-content h1{
-    color: #074668;
+    color: #f4f7f8;
     font-size: 60px;
     margin: 15px 0;
 }
@@ -229,9 +229,6 @@ html{
 }
 .showcase .showcase-content .btn-left{
     background: linear-gradient(to right, #0d098f , #3bafda);
-}
-.showcase .showcase-content .btn-right{
-    background: linear-gradient(to right,#0d098f , #3bafda);
 }
 
 /* Services Section Styling */
