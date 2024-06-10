@@ -6,12 +6,10 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
 /* Smooth Scroll */
 html{
     scroll-behavior: smooth;
 }
-
 /* Utility Classes */
 .text-secondary{
     color: #074668;
